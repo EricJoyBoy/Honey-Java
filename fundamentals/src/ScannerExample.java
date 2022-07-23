@@ -1,4 +1,4 @@
-package fundamentals;
+
 
 import java.util.Scanner;  // Importa la classe Scanner
 import java.util.regex.MatchResult; // Importa la classe MatchResult
